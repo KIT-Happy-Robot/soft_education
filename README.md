@@ -14,11 +14,12 @@ Python講習会第4回 ：[第4回 While・for.pptx](https://github.com/KIT-Happ
 Python講習会第5回 ：[第5回 List.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10508263/5.pptx)  
 
 ### 応用編  
-Python講習会第6回 ：[第6回 ディクショナリ.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10508268/6.pptx)  
-Python講習会第7回 ：[第7回 関数.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10465673/7.pptx)  
-Python講習会第8回 ：[第8回 ファイルの入出力.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10465673/8.pptx)  
-Python講習会第9回 ：[第9回 クラス1.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10465673/9.pptx)  
-Python講習会第10回：[第10回 クラス2.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10465673/10.pptx)  
+Python講習会第6回 ： [第6回 ディクショナリ (1).pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10837079/6.1.pptx)  
+Python講習会第7回 ：  [第7回 関数、ライブラリ.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10837076/7.pptx)  
+Python講習会第8回 ：  [第8回 ファイルの入出力.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10837075/8.pptx)  
+Python講習会第9回 ： [第9回クラス.pptx](https://github.com/KIT-Happy-Robot/soft_education/files/10837074/9.pptx)
+
+
 
 
 ## ROS編 
